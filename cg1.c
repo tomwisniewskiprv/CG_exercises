@@ -1,3 +1,7 @@
+// Exercises in computer graphics in OpenGL using C. The fourth semester of study.
+// Tomasz Wisniewski
+// Exercises 1-10 / Part 1 of 1 set.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
